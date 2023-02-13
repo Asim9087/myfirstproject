@@ -1,0 +1,13 @@
+<html>
+<head>
+<title>helloo</title>
+</head>
+<body>
+<h1>first project</h1>
+<p>
+The world of computer programming is constantly evolving and new problems are being solved with code every day. In order to stay sharp, you need to be consistently discovering new ways to tackle problems. You need to be trying new things and collaborating with other programmers. The coding community is a tight-knit one, but it’s also large. There are so many people to learn from. GitHub has a wealth of features that enable you to collaborate with and learn from the best in the industry.
+ Take some time to explore GitHub and discover how you can unlock your full potential and become an expert programmer
+</p>
+
+</body>
+</html>
