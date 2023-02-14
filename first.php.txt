@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>move to master branch</title>
+<title>this is conflict file</title>
 </head>
 <body>
 <h1>change the file project</h1>
@@ -13,3 +13,4 @@ hello world hello world
 </h4>
 </body>
 </html>
+
