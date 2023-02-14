@@ -4,11 +4,11 @@
 </head>
 <body>
 <section id="na">
-<div> 1. file</div>
-<div>2. file</div>
-<div>3. file</div>
-<div>4. file</div>
-<div>5. file</div>
+<div> 1 file</div>
+<div>2 file</div>
+<div>3 file</div>
+<div>4 file</div>
+<div>5 file</div>
 </section>
 </h4>
 </body>
