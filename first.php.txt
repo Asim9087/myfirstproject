@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>change branch</title>
+<title>move to master branch</title>
 </head>
 <body>
 <h1>change the file project</h1>
